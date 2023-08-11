@@ -1,1 +1,6 @@
 Meet us!
+
+
+git add <fajl>
+git commit -m <poruka>
+git push
